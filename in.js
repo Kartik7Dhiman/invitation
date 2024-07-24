@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yayyyyyyyyyyyyyyyyyyyyyyy";
+  question.innerHTML = "Hehehehe Love you so much";
   gif.src =
     "https://media.giphy.com/media/SjxtmBS267NOU/giphy.gif";
 });
